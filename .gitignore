@@ -1,0 +1,5 @@
+*.exe
+rpm.txt
+engine.txt
+.vscode/
+Turbofan_3D_Visualizer
